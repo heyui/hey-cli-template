@@ -1,6 +1,7 @@
 module.exports = {
   port: 9008,
   root: "dist",
+  react: true,
   webpack: {
     publicPath: "/",
     output: {
@@ -14,8 +15,7 @@ module.exports = {
     },
     global: {},
     devServer: {},
-    externals: {},
-    globalVars: './src/css/var.less'
+    externals: {}
   },
   copy: []
 };

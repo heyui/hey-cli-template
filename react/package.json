@@ -1,14 +1,16 @@
 {
-  "name": "heyui-demo",
-  "description": "A heyui project",
+  "name": "vue",
+  "description": "A Vue.js project",
   "version": "1.0.0",
   "author": "vvpvvp <alias8516@sina.com.cn>",
   "license": "MIT",
   "private": true,
   "scripts": {},
   "dependencies": {
-    "heyui": "^0.16.4",
-    "vue": "^2.5.11"
+    "antd": "^3.2.2",
+    "moment": "^2.20.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
   },
   "browserslist": [
     "> 1%",
