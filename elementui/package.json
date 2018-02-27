@@ -1,12 +1,13 @@
 {
-  "name": "vue",
-  "description": "A Vue.js project",
+  "name": "element-ui",
+  "description": "A element-ui project",
   "version": "1.0.0",
   "author": "vvpvvp <alias8516@sina.com.cn>",
   "license": "MIT",
   "private": true,
   "scripts": {},
   "dependencies": {
+    "element-ui": "^2.2.0",
     "vue": "^2.5.11"
   },
   "browserslist": [

@@ -1,7 +1,7 @@
 {
   "name": "hey-template-simple",
   "version": "1.0.0",
-  "description": "hey template simple version",
+  "description": "hey-cli template simple",
   "main": "src/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,12 +12,8 @@
     "template",
     "webpack"
   ],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "eslint": "^3.18.0",
-    "eslint-config-airbnb-base": "^11.1.2",
-    "eslint-plugin-html": "^2.0.1",
-    "eslint-plugin-import": "^2.2.0"
+  "author": "vvpvvp",
+  "license": "MIT",
+  "devDependencies": {
   }
 }
