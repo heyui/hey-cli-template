@@ -1,6 +1,10 @@
 # hey-template
 vue template
 
+## Compatibility
+In order to compatible with win10 system, we changed config file from `hey.js` to `hey.conf.js`;  
+Please use hey-cli at least version 1.2.2.
+
 ## simple
 simple webpack project.  
 [https://github.com/heyui/hey-cli-template/tree/master/simple](https://github.com/heyui/hey-cli-template/tree/master/simple)
@@ -22,7 +26,3 @@ simple iviewui project.
 ## elementui
 simple elementui project.  
 [https://github.com/heyui/hey-cli-template/tree/master/elementui](https://github.com/heyui/hey-cli-template/tree/master/elementui)
-
-## Compatibility
-
-In order to compatible with win10 system, we changed config file name from `hey.js` to `hey.conf.js`;
