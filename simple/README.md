@@ -21,8 +21,7 @@ For detailed explanation on how things work, consult the [docs for hey-cli](http
 ```
 |-- src  
 |   |-- css
-|   |   |-- index.less 
-|   |   |-- index.scss
+|   |   |-- index.less
 |   |-- app.js  
 |-- hey.js 
 |-- package.json
