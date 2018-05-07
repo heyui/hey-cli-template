@@ -1,7 +1,7 @@
 {
-  "name": "hey-template-simple",
+  "name": "hey-template-sample",
   "version": "1.0.0",
-  "description": "hey-cli template simple",
+  "description": "hey-cli template sample",
   "main": "src/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
