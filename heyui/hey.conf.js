@@ -9,9 +9,6 @@ module.exports = {
         commons: []
       }
     },
-    commonTrunk: {
-      common: []
-    },
     global: {},
     devServer: {},
     externals: {},
