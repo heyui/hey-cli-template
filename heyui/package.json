@@ -7,7 +7,7 @@
   "private": true,
   "scripts": {},
   "dependencies": {
-    "heyui": "^0.16.4",
+    "heyui": "^1.15.0",
     "vue": "^2.5.11"
   },
   "browserslist": [
