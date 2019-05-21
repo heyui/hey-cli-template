@@ -5,8 +5,7 @@ module.exports = {
     publicPath: "/",
     output: {
       "./*html": {
-        entry: "./src/main",
-        commons: []
+        entry: "./src/main"
       }
     },
     global: {},

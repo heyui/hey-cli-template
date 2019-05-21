@@ -5,12 +5,8 @@ module.exports = {
     publicPath: "/",
     output: {
       "./*html": {
-        entry: "./src/app",
-        commons: []
+        entry: "./src/app"
       }
-    },
-    commonTrunk: {
-      common: []
     },
     global: {},
     devServer: {},
