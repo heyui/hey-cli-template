@@ -12,6 +12,7 @@ simple webpack project.
 ## react
 simple react project.  
 [https://github.com/heyui/hey-cli-template/tree/master/react](https://github.com/heyui/hey-cli-template/tree/master/react)
+
 ## vue
 simple vue project.  
 [https://github.com/heyui/hey-cli-template/tree/master/vue](https://github.com/heyui/hey-cli-template/tree/master/vue)
@@ -19,6 +20,10 @@ simple vue project.
 ## heyui
 simple heyui project.  
 [https://github.com/heyui/hey-cli-template/tree/master/heyui](https://github.com/heyui/hey-cli-template/tree/master/heyui)
+
+## heyadmin
+simple heyadmin project.  
+[https://github.com/heyui/hey-cli-template/tree/master/heyadmin](https://github.com/heyui/hey-cli-template/tree/master/heyadmin)
 
 ## iviewui
 simple iviewui project.  
