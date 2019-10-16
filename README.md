@@ -28,6 +28,11 @@ simple heyadmin project.
 ## iviewui
 simple iviewui project.  
 [https://github.com/heyui/hey-cli-template/tree/master/iviewui](https://github.com/heyui/hey-cli-template/tree/master/iviewui)
+
+## viewui
+simple viewui project.  
+[https://github.com/heyui/hey-cli-template/tree/master/viewui](https://github.com/heyui/hey-cli-template/tree/master/viewui)
+
 ## elementui
 simple elementui project.  
 [https://github.com/heyui/hey-cli-template/tree/master/elementui](https://github.com/heyui/hey-cli-template/tree/master/elementui)
