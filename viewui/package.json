@@ -1,0 +1,19 @@
+{
+  "name": "viewui-sample",
+  "description": "A viewui project",
+  "version": "1.0.0",
+  "author": "sfk <sfk@live.cn>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "view-design": "^4.0.0",
+    "vue": "^2.5.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
+  "devDependencies": {}
+}
