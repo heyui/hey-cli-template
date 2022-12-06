@@ -34,7 +34,7 @@
     "marked": "^0.6.2",
     "plupload-es6": "^2.1.11",
     "qiniu-js-es6": "^1.0.31",
-    "qs": "^6.4.0",
+    "qs": "^6.6.1",
     "regenerator-runtime": "^0.13.2",
     "vue": "^2.6.10",
     "vue-router": "^2.5.3",
